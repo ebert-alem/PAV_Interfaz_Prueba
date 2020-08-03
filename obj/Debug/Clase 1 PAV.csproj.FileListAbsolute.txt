@@ -1,0 +1,45 @@
+C:\Users\e-r-t\source\repos\Clase 1 PAV\bin\Debug\Clase 1 PAV.exe.config
+C:\Users\e-r-t\source\repos\Clase 1 PAV\bin\Debug\Clase 1 PAV.exe
+C:\Users\e-r-t\source\repos\Clase 1 PAV\bin\Debug\Clase 1 PAV.pdb
+C:\Users\e-r-t\source\repos\Clase 1 PAV\obj\Debug\Clase 1 PAV.csprojAssemblyReference.cache
+C:\Users\e-r-t\source\repos\Clase 1 PAV\obj\Debug\Clase_1_PAV.Properties.Resources.resources
+C:\Users\e-r-t\source\repos\Clase 1 PAV\obj\Debug\Clase 1 PAV.csproj.GenerateResource.cache
+C:\Users\e-r-t\source\repos\Clase 1 PAV\obj\Debug\Clase 1 PAV.csproj.CoreCompileInputs.cache
+C:\Users\e-r-t\source\repos\Clase 1 PAV\obj\Debug\Clase 1 PAV.exe
+C:\Users\e-r-t\source\repos\Clase 1 PAV\obj\Debug\Clase 1 PAV.pdb
+C:\Users\e-r-t\source\repos\Clase 1 PAV\obj\Debug\Clase_1_PAV.frmInicio.resources
+C:\Users\e-r-t\source\repos\Clase 1 PAV\obj\Debug\Clase_1_PAV.frmLogin.resources
+C:\Users\e-r-t\source\repos\Clase 1 PAV\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\e-r-t\source\repos\Clase 1 PAV\obj\Debug\Clase 1 PAV.csproj.CopyComplete
+C:\Users\e-r-t\source\repos\Clase 1 PAV\obj\Debug\Clase_1_PAV.Formularios.frmPromedios.resources
+C:\Users\e-r-t\source\repos\Clase 1 PAV\obj\Debug\Clase_1_PAV.Formularios.frmTareas.resources
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\bin\Debug\Clase 1 PAV.exe.config
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\bin\Debug\Clase 1 PAV.exe
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\bin\Debug\Clase 1 PAV.pdb
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\obj\Debug\Clase 1 PAV.csprojAssemblyReference.cache
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\obj\Debug\Clase_1_PAV.Formularios.frmPromedios.resources
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\obj\Debug\Clase_1_PAV.Formularios.frmTareas.resources
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\obj\Debug\Clase_1_PAV.frmInicio.resources
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\obj\Debug\Clase_1_PAV.frmLogin.resources
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\obj\Debug\Clase_1_PAV.Properties.Resources.resources
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\obj\Debug\Clase 1 PAV.csproj.GenerateResource.cache
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\obj\Debug\Clase 1 PAV.csproj.CoreCompileInputs.cache
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\obj\Debug\Clase 1 PAV.csproj.CopyComplete
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\obj\Debug\Clase 1 PAV.exe
+C:\Users\e-r-t\source\repos\Interfaz login e inicio PAV\obj\Debug\Clase 1 PAV.pdb
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\bin\Debug\Clase 1 PAV.exe.config
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\bin\Debug\Clase 1 PAV.exe
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\bin\Debug\Clase 1 PAV.pdb
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\obj\Debug\Clase 1 PAV.csprojAssemblyReference.cache
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\obj\Debug\Clase_1_PAV.Formularios.frmPromedios.resources
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\obj\Debug\Clase_1_PAV.Formularios.frmTareas.resources
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\obj\Debug\Clase_1_PAV.frmInicio.resources
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\obj\Debug\Clase_1_PAV.frmLogin.resources
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\obj\Debug\Clase_1_PAV.Properties.Resources.resources
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\obj\Debug\Clase 1 PAV.csproj.GenerateResource.cache
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\obj\Debug\Clase 1 PAV.csproj.CoreCompileInputs.cache
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\obj\Debug\Clase 1 PAV.csproj.CopyComplete
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\obj\Debug\Clase 1 PAV.exe
+C:\Users\e-r-t\source\repos\PAV_Interfaz_prueba\obj\Debug\Clase 1 PAV.pdb
